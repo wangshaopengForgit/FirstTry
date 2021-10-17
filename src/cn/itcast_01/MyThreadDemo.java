@@ -26,6 +26,6 @@ public class MyThreadDemo {
         new Object();
         new Object();
         System.out.println("world");
-
+        System.out.println("world");
     }
 }
